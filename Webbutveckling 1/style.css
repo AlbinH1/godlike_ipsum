@@ -1,0 +1,50 @@
+body {
+
+	background-color: blue;
+	color: yellow;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+h1 { 
+	background-color: yellow;
+	color: blue;
+ }
+
+
+ h2 {
+ 	background-color: yellow;
+ 	color: blue;
+ }
+
+
+ .skinny {
+ 	height:700px;
+ 	width:680px;
+ 	margin: auto;
+ }
+
+ .morbergoo {
+ 	margin: auto;
+ 	border: 5px solid yellow;
+ 	box-sizing: border-box;
+ }
+.morbergoo img {
+	width: 50%;
+}
+#fuck {
+	display: none;
+}
+
+#golv {
+	display: none;
+}
+
+#morberg {
+	box-sizing: border-box;
+	float: left;
+}
+#morberg {
+	box-sizing: border-box;
+	float: right;
+}
